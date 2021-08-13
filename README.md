@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning Java 
 
-- 📫 How to reach me harshalwaghare18
+- 📫 Reach to me harshalwaghare18
 
 <!---
 harshalwaghare18/harshalwaghare18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
