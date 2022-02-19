@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **space**
 
-- 📫 How to reach me **harshalwaghare980@gmail.com**
+- 📫 How to reach me **<a data-email="harshalwaghare980@gmail.com" href="mailto:harshalwaghare980@gmail.com">Through Mail</a>**
 
 - ⚡ Fun fact **I'm always excited and curious about space.**
 
