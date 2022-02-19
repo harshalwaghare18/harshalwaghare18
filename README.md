@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 📝 I regularly write articles on <button><a href="https://harshwaghare.blogspot.com" target="_blank"> Blog Spot</a></button>
+- 📝 I regularly active on <button><a href="https://www.linkedin.com/in/harshal-waghare-baa423209/" target="_blank">Linkedin</a></button>
 
 - 💬 Ask me about **space**
 
