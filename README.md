@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/552163768242943940?hl=en](https://www.blogger.com/u/1/blog/posts/552163768242943940?hl=en)
+- 📝 I regularly write articles on <buttonk"><a href="https://www.blogger.com/u/1/blog/posts/552163768242943940?hl=en"> Blog Spot</a></button>
 
 - 💬 Ask me about **space**
 
