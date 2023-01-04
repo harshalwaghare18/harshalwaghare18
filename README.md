@@ -26,7 +26,7 @@
 
 - 📝 I regularly active on <button><a href="https://www.linkedin.com/in/harshal-waghare-baa423209/" target="_blank">Linkedin</a></button>
 
-- 💬 Ask me about **space**
+- 💬 Ask me about **Astronomy**
 
 - 📫 How to reach me **<a data-email="harshalwaghare980@gmail.com" href="mailto:harshalwaghare980@gmail.com">Through Mail</a>**
 
