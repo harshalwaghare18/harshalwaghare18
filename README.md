@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harshal Waghare</h1>
 <h3 align="center">I'm a Student, Blogger, Developer, and Nature Lover !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalwaghare18&label=Profile%20views&color=0e75b6&style=flat" alt="harshalwaghare18" /> </p>
 
 
 <a href="https://github.com/harshalwaghare18" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
+<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshalWaghare?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshalWaghareKr&screen_name=HarshalWaghare)
