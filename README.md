@@ -33,7 +33,6 @@
 <p align="left">
 <a href="https://twitter.com/harshalwaghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshalwaghare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshal-waghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-waghare" height="30" width="40" /></a>
-<a href="https://fb.com/harshal waghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshal waghare" height="30" width="40" /></a>
 <a href="https://instagram.com/harshwaghare___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshwaghare___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshalwaghare91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshalwaghare91" height="30" width="40" /></a>
 </p>
