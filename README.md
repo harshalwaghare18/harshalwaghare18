@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently working on **Java Projects**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AWS & DevOps**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
