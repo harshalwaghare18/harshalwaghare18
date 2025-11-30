@@ -66,7 +66,20 @@
 
 <br/>
 
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalwaghare18&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
 
 <br/>
 
