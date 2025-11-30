@@ -60,19 +60,25 @@
 <h3 align="center">🏆 Achievements</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshalwaghare18&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harshalwaghare18&theme=tokyonight&no-frame=true&margin-w=10&rank=C" alt="trophy" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="170" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalwaghare18&theme=radical&hide_border=true&bg_color=141321" alt="streak stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalwaghare18&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 <br/>
