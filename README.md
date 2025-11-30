@@ -1,57 +1,82 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshal%20Waghare&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20|%20Developer%20|%20Space%20Enthusiast&descAlignY=55&descSize=25" alt="Header" />
+</div>
 
-# Harshal Waghare
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Python+Applications;Exploring+AWS+%26+DevOps;Gazing+at+the+Stars;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</div>
 
-> Student, Blogger, Developer, and Nature Lover 🌿
+<div align="center">
+  <a href="https://github.com/harshalwaghare18" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://linkedin.com/in/harshal-waghare" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/harshalwaghare" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://instagram.com/harshwaghare___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:harshalwaghare980@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/harshal-waghare)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/harshalwaghare)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:harshalwaghare980@gmail.com)
+<br />
 
----
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 About Me</h3>
+      <br>
+      <ul>
+        <li>🔭 I’m currently working on <b>Python Projects</b></li>
+        <li>🌱 I’m currently learning <b>AWS & DevOps</b></li>
+        <li>🤝 I’m looking for help with <b>Open Source Projects</b></li>
+        <li>💬 Ask me about <b>Astronomy & Space</b> 🪐</li>
+        <li>📫 Reach me at <b>harshalwaghare980@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I spend my free time exploring the cosmos!</b> 🚀</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Space GIF"/>
+    </td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+<br/>
 
-Hi! I am a passionate developer currently expanding my knowledge in Cloud Computing and DevOps.
+<h3 align="center">🛠 Languages and Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bootstrap,php,mysql,postgres,aws,git,github,vscode,pycharm&perline=8" />
+</div>
 
-* 🔭 **Current Project:** Building applications with Python.
-* 🌱 **Learning:** AWS Cloud Infrastructure & DevOps practices.
-* 🌌 **Interests:** I am deeply curious about Astronomy and Space.
-* 👯 **Collaboration:** Open to contributing to Open Source projects.
+<br/>
 
----
+<h3 align="center">🏆 Achievements</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshalwaghare18&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
+</div>
 
-### 🛠 Languages & Tools
+<br/>
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="170" alt="languages graph" />
+</div>
 
-**Web & Databases**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalwaghare18&theme=radical&hide_border=true&bg_color=141321" alt="streak stats" />
+</div>
 
-**Tools & Cloud**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<br/>
 
----
-
-### 📈 Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&locale=en&theme=tokyonight" alt="harshalwaghare18" />
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="harshalwaghare18" />
-</p>
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
