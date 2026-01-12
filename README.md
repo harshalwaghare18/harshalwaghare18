@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshal%20Waghare&fontSize=70&animation=fadeIn&fontAlignY=32&desc=Cloud%20Engineer%20%|%20Developer%20|%20Space%20Enthusiast&descAlignY=68&descSize=20" alt="Header" />
 </div>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Python+Applications;Exploring+AWS+%26+DevOps;Gazing+at+the+Stars;Always+Learning+Something+New" alt="Typing SVG" />
