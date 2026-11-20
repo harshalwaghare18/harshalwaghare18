@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshal%20Waghare&fontSize=70&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%|%20Developer%20|%20Space%20Enthusiast&descAlignY=68&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20👋,%20I'm%20Harshal%20Waghare&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Space%20Enthusiast&descAlignY=55&descSize=18" alt="Header" width="100%"/>
 </div>
 
- 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Python+Applications;Exploring+AWS+%26+DevOps;Gazing+at+the+Stars;Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Building+AI-powered+Applications;Training+%26+Fine-tuning+ML+Models;Exploring+AWS+%26+DevOps;Gazing+at+the+Stars+%F0%9F%8C%8C;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshalwaghare18&style=flat-square&color=3F51B5" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/harshalwaghare18?label=Followers&style=flat-square&color=3F51B5" alt="followers"/>
+</p>
 
 <div align="center">
   <a href="https://github.com/harshalwaghare18" target="_blank">
@@ -27,63 +33,99 @@
   </a>
 </div>
 
-<br />
+<br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+## 👨‍💻 About Me
+
+<table>
   <tr>
     <td width="60%" valign="top">
-      <h3>👋 About Me</h3>
-      <br>
       <ul>
-        <li>🔭 I’m currently working on <b>Python Projects</b></li>
-        <li>🌱 I’m currently learning <b>AWS & DevOps</b></li>
-        <li>🤝 I’m looking for help with <b>Open Source Projects</b></li>
-        <li>💬 Ask me about <b>Astronomy & Space</b> 🪐</li>
+        <li>🤖 I'm an <b>AI Engineer</b> working on applied machine learning & intelligent systems</li>
+        <li>🔭 Currently building <b>AI-driven Python applications</b></li>
+        <li>🌱 Currently learning <b>AWS, DevOps, and MLOps pipelines</b></li>
+        <li>🤝 Looking to collaborate on <b>open-source AI/ML projects</b></li>
+        <li>💬 Ask me about <b>AI Engineering, Python, or Astronomy</b> 🪐</li>
         <li>📫 Reach me at <b>harshalwaghare980@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I spend my free time exploring the cosmos!</b> 🚀</li>
+        <li>⚡ Fun fact: <b>I spend my free time exploring the cosmos</b> 🚀</li>
       </ul>
     </td>
-    <td width="40%" valign="center">
+    <td width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Space GIF"/>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,bootstrap,php,mysql,postgres,aws,git,github,vscode,pycharm&perline=8" />
+## 🧠 Tech Stack
+
+**Languages**
+<div>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=8" />
 </div>
 
-<br/>
+**AI / ML**
+<div>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</div>
 
-<h3 align="center">🏆 Achievements</h3>
+**Web & Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,flask,django&perline=8" />
+</div>
+
+**Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+</div>
+
+**Cloud & DevOps**
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=8" />
+</div>
+
+**Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,postman&perline=8" />
+</div>
+
+---
+
+## 🏆 Achievements
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=harshalwaghare18&theme=tokyonight&no-frame=true&margin-w=10&rank=C" alt="trophy" />
   </a>
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalwaghare18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalwaghare18&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalwaghare18&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshalwaghare18&theme=tokyo-night&hide_border=true" alt="activity graph" width="95%"/>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </div>
