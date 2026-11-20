@@ -151,12 +151,6 @@ A real-time video processing pipeline for image dehazing and object detection in
 - ☁️ Completed hands-on **AWS Cloud & DevOps** training (EC2, S3, VPC, IAM, RDS, Terraform, EKS)
 - 🏗️ Participated in cloud computing and DevOps technical workshops and hackathons
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshalwaghare18&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
-</div>
-
 ---
 
 ## 📄 Research Publications
