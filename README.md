@@ -82,18 +82,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### Real-Time Multi-Threaded Dehazing & Object Detection System
-A real-time video processing pipeline for image dehazing and object detection in low-visibility environments (fog, haze, smoke).
-
-- Multi-threaded architecture parallelizing video capture, image enhancement, and detection stages
-- **Dark Channel Prior (DCP)**-based dehazing module with guided filtering for CPU-efficient processing
-- Integrated **YOLOv8-nano** for lightweight, real-time object detection without GPU dependency
-- 🎯 **Result:** 8–10 FPS on CPU vs. 3–4 FPS sequential baseline — a **2.5x throughput improvement**, applicable to surveillance and autonomous systems
-
----
-
 ## 🧠 Tech Stack
 
 **Languages**
