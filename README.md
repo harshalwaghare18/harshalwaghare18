@@ -62,11 +62,12 @@
 
 **Languages**
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js&perline=8" />
 </div>
 
-**AI / ML**
+**AI / ML / Agentic AI**
 <div>
+  <img src="https://img.shields.io/badge/-Agentic%20AI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -79,22 +80,22 @@
 
 **Web & Backend**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,flask,django&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,django,fastapi&perline=8" />
 </div>
 
-**Databases**
+**Databases & Messaging**
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq&perline=8" />
 </div>
 
 **Cloud & DevOps**
 <div>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&perline=8" />
 </div>
 
 **Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,postman,jira&perline=8" />
 </div>
 
 ---
