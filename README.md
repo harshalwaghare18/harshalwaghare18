@@ -110,6 +110,17 @@
 
 ---
 
+## 📄 Research Publications
+
+| # | Title | Published In |
+|---|-------|---------------|
+| 1 | A Real-Time Multi-Threaded Framework for Dehazing and Object Detection in Hazardous Environments | I2ITCON 2026 – 2nd Intl. Conference on Information, Implementation and Innovation in Technology |
+| 2 | Fruit Quality Monitoring System Using Machine Learning and Internet of Things | ICCSS 2025 – Intl. Conference on Computer Science and Systems, Pune |
+| 3 | Heart Disease Prediction Using Deep Learning Approaches | ICCSS 2025 – Intl. Conference on Computer Science and Systems, Pune |
+| 4 | Unmasking Attacker Identity Behind The VPN | ICABEC 2023 – 5th Intl. Conference on Advances in AI for Biomedical Instrumentation, Electronics & Computing |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
